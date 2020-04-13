@@ -1,11 +1,11 @@
 # Dave
-Dangerous Dave :- Replica Created in 2012
+## Dangerous Dave :- Replica Created in 2012
 
 ![Alt text](Assets/assets/back.png?raw=true "Optional Title")
 
 This game has been written in C++ and a game programming library called Allegro.
 
-##Instructions to run the game
+## Instructions to run the game
 
 There is just one cpp file. The image assets are all grouped in and stored into respective dat files. The game heavily relies in the image assets. Please navigate to the path of the dat files in the cpp and refactor. 
 
