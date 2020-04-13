@@ -12,6 +12,8 @@ There is just one cpp file. The image assets are all grouped in and stored into 
 NOTE:: ASSET paths are not relative. Please UPDATE.
 
 
+## Features
+
 1. Game Mechanics of the of the original game have been preserved and a few additional challenges have been added to certain levels.
 2. Collision Detection system is color based where each color is coded to be identified as a specific object.
 3. The high score log/ leaderboard is maintained by adding colored pixels to an empty image.
